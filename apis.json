@@ -1,0 +1,93 @@
+{
+    "name": "Elsevier ScienceDirect",
+    "description": "Elsevier is a global information analytics business that helps institutions and professionals progress science, advance healthcare and improve performance.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2011-elsevier-sciencedirect.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "journal"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/elsevier-sciencedirect\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Elsevier ScienceDirect",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2011-elsevier-sciencedirect.jpg",
+            "humanURL": "http:\/\/www.elsevier.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/elsevier-sciencedirect-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/elsevier"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/elsevier"
+        },
+        {
+            "type": "Email",
+            "url": "y.schemm@elsevier.com"
+        },
+        {
+            "type": "Email",
+            "url": "newsroom@elsevier.com"
+        },
+        {
+            "type": "Email",
+            "url": "T.Reller@elsevier.com"
+        },
+        {
+            "type": "Email",
+            "url": "h.boersma@elsevier.com"
+        },
+        {
+            "type": "Email",
+            "url": "c.capot@elsevier.com"
+        },
+        {
+            "type": "Email",
+            "url": "s.boucherie@elsevier.com"
+        },
+        {
+            "type": "Email",
+            "url": "d.tucker@elsevier.com"
+        },
+        {
+            "type": "Email",
+            "url": "j.chan@elsevier.com"
+        },
+        {
+            "type": "Email",
+            "url": "permissionshelpdesk@elsevier.com"
+        },
+        {
+            "type": "Email",
+            "url": "DMCA@elsevier.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/ElsevierConnect"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/ElsevierConnec"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.elsevier.com\/"
+        }
+    ]
+}
